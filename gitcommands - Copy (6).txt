@@ -1,6 +1,0 @@
-git add origin <link>
-git add <new file>
-git pull
-git push
-git status --check untracked files
-clear

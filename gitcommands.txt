@@ -4,4 +4,9 @@ git pull
 git push
 git status 	//check untracked files
 git remote -v	//check origin or remote repo
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+git branch <branchname>
+git checkout <branchname> //switch to other branch
 clear
+ls //List contents of the current directory

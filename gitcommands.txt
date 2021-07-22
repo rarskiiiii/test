@@ -13,3 +13,5 @@ clear
 ls //List contents of the current directory
 
 git config --global core.pager cat	//stop displaying log to pager
+clear
+ls //List contents of the current directory

@@ -1,6 +1,7 @@
 git add origin <link>
 git add <new file>
-git pull
+git pull 
 git push
-git status --check untracked files
+git status 	//check untracked files
+git remote -v	//check origin or remote repo
 clear
